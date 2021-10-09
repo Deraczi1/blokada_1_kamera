@@ -1,0 +1,1 @@
+# blokada_1_kamera
