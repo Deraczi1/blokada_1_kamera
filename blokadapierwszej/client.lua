@@ -5,3 +5,5 @@ Citizen.CreateThread(function()
     	Citizen.Wait(0)
     end
 end)
+
+-- CREATE BY DERACZi#9999
