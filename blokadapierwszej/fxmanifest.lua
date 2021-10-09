@@ -1,4 +1,4 @@
-fx_version "bodacious"
+fx_version "bajojajojoajo"
 games {"gta5"}
 
 author 'Deraczi'
